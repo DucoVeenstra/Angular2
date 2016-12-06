@@ -1,0 +1,109 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+    -ms-overflow-style: scrollbar;
+}
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    background-color: #FFF;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.HelveticaNeueLT-Bold {
+    font-family: HelveticaNeueLT-Bold;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.HelveticaNeueLT-Medium {
+    font-family: HelveticaNeueLT-Medium;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.HelveticaNeueLT-Light {
+    font-family: HelveticaNeueLT-Light;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.HelveticaNeueLT-Thin {
+    font-family: HelveticaNeueLT-Thin;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.HelveticaNeueLT-Roman {
+    font-family: HelveticaNeueLT-Roman;
+    font-weight: normal;
+    font-style: normal;
+}
+h1, .h1 {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #0091DC;
+    margin-top: 15px
+}
+h2, .h2 {
+    font-family: HelveticaNeueLT-Light;
+    font-size: 22px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+    color: #333333;
+}
+
+h3, .h3 {
+    font-family: HelveticaNeueLT-Light;
+    font-size: 16px;
+    font-weight: lighter;
+    margin: 20px 0;
+    color: #333333;
+}
+h4, .h4 {
+    font-family: HelveticaNeueLT-Bold;
+    font-size: 11px;
+    font-weight: bold;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+h5, .h5 {
+    font-family: HelveticaNeueLT-Medium;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px 0;
+}
+
+h6 {
+    font-family: HelveticaNeueLT-Light;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+    color: #0091DC;
+}
+p {
+    font-family: HelveticaNeueLT-Light, Helvetica,Arial,sans-serif;
+    font-weight: lighter;
+    font-size: 13px;
+    Color: #000;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    margin: 0 0 24px;
+}
+
+.btn-primary {
+    background: #ff6e0a;
+    color: #fff;
+    border: 0;
+    border-radius: 0;
+    padding: 0 50px;
+    line-height: 52px;
+    font-family: Helvetica Neue, Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+
+
